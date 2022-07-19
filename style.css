@@ -1,0 +1,16 @@
+body{
+        background-color: cadetblue;
+        background-image: url(mm.jpg);
+}
+
+#head{
+
+    color: lightgreen;
+    text-decoration: solid;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.inp{
+
+    text-indent: center;
+}
